@@ -88,13 +88,13 @@ Untuk memulai lakukan installasi dependecy dengan perintah :
 npm install
 ```
 
-#### Menguji Middleware
-Untuk menguji Middleware berfungsi jalankan perintah
+#### Menguji Frontend
+Untuk menguji Frontend berfungsi jalankan perintah
 ```
 npm run start
 ```
 
-jika muncul seperti berikut artinya server proxy sudah berjalan :
+jika muncul seperti berikut artinya Frontend sudah berjalan :
 ![alt text](image-6.png)
 
 kemudian akses `http://localhost:3001/api/products`
